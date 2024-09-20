@@ -97,7 +97,7 @@ struct MusicView: View {
                                 .font(.title2)})
                 }.padding(.vertical,9)
                 HStack{
-                    Image(systemName:"airpods.gen3")
+                    Image(systemName:"airpods.gen3  ")
                         .foregroundStyle(.green)
                     Text("Alec's Airpods Pro")
                         .foregroundStyle(.green)
